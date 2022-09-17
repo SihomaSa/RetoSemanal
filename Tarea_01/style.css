@@ -57,3 +57,17 @@ body{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 
 }
+.container-cuadrado{
+    margin: 0 130px 0 130px;
+    text-align: left;
+    background-color: black;
+    border-radius: 12px;
+    font-size:  14px;
+    color: azure;
+    font-weight: bolder;
+
+}
+.codigo-condicion{
+    margin: 0 0 10px 30px;
+    
+}
